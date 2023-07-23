@@ -1,0 +1,104 @@
+.My-home-container{
+    background-color: #E7F6F2;
+}
+.hero-img img{
+    width: 90%;
+    }
+    .hero-img1 img{
+        width: 90%;
+        height: 500px;
+       
+    }
+    .home-hero-section{
+        padding-top: 80px;
+    }
+    .hero-txt,.creater-header{
+        font-size: 32px;
+        font-weight: bold;
+    }
+    .creater-header{
+        text-align: center;
+    }
+    .hero-left{
+        font-size: larger;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    .create-book-container{
+        margin-top: 100px;
+    }
+    .Create-meme-section{
+    margin-top: 100px;
+    }
+    .home-box{
+        display: flex;
+        flex-direction: column;
+        padding-left: 15px;
+        background-color: #F8F8F9;
+        border-radius: 12px;
+        padding-top: 20px;
+        /* padding-bottom: 20px; */
+        padding-right: 15px;
+        height: 250px;
+    }
+    .box-heading{
+        font-size: 25px;
+    }
+    .box-header{
+        font-size: 20px;
+    }
+    .box-heading,.box-header{
+        font-weight: bold;
+        margin-bottom: 10px;
+    }
+    .home-box-container{
+        padding-bottom: 100px;
+        padding-top: 50px;
+    }
+    .Features-meme-section{
+    margin-top: 100px;
+    }
+    .features-box-container{
+        margin-top: 50px;
+    }
+    .features-box-container .row{
+        display: flex !important;
+       
+        justify-content: center !important;
+        align-items: center !important;
+       
+    }
+    .feature-box{
+        display: flex;
+        flex-direction: column;
+        padding-left: 15px;
+        background-color: #F8F8F9;
+        border-radius: 12px;
+        padding-top: 20px;
+       margin-bottom: 20px;
+        padding-right: 15px;
+      justify-content: center;
+      align-items: center;
+      width: 70%;
+    }
+    .feature-box .box-description{
+        text-align: center;
+    }
+    .creator-sub-txt{
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+    }
+    .template-container{
+        margin-top: 30px;
+    }
+    .template-img{
+        margin-bottom: 20px;
+    }
+    .template-img img{
+        width: 100%;
+        height: 400px;
+    }

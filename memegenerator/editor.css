@@ -1,0 +1,77 @@
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    /* font-size: inherit; */
+    line-height: inherit;
+}
+/* #FBF0F0
+#DFD3D3
+#B8B0B0
+#7C7575 */
+
+
+/* #495C83
+#7A86B6
+#A8A4CE
+#C8B6E2 */
+
+body{
+   color: aliceblue; 
+}
+
+
+.dropdownmenu{
+background-color:#FBF0F0 ;
+}
+.col-2{
+    padding-bottom: 2%;
+    background-color:#2C3333 ;
+}
+
+.col-3 {
+    padding-top: 20px;
+    background-color: #2C3333;
+    color: aliceblue;
+    height: 700px;
+}
+.col-7 {
+    padding-top: 20px;
+    background-color: #A5C9CA;
+    height: 700px;
+}
+
+.rotate{
+    margin-top: 15px;
+font-size: medium;
+}
+.file-input::-webkit-file-upload-button {
+    visibility: hidden;
+    user-select: none;
+}
+.file-input{
+cursor: pointer;
+    display: none;
+    user-select: none;
+}
+
+/* canvas{
+    border: 1px solid black;
+} */
+.textformat{
+    margin-top: 15px;
+
+}
+.colorInput {
+    height: 20px;
+    width: 44px;
+}
+
+.btnmain{
+    color: white;
+    background-color: #395B64;
+}
+
+.btnsec{
+    background-color: #A5C9CA;
+
+}
